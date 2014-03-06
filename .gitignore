@@ -1,5 +1,11 @@
 *.py[cod]
 
+*.db
+
+env
+ve
+venv
+
 # C extensions
 *.so
 
